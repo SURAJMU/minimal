@@ -1,6 +1,17 @@
 title: <p align="center"> Suraj MU </p>
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+logo: /assets/img/mypic.jpeg
+
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/suraj-mu-525817112/">LinkedIn</a> |
+  <a href="https://github.com/SURAJMU">GitHub</a>
+  
+  <br>   
+  Math and Analytics enthusiast, beleive in continuous learning and have 3+ years of experience in enabling data driven decisions to Fortune 500 companies through descriptive and predictive approaches!
+  <br>
+  </p>
+
+
+
 theme: jekyll-theme-minimal
